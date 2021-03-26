@@ -28,6 +28,10 @@
 .place-item__info p {
   margin: 0 0 0.5rem 0;
 }
+.map-container {
+  height: 15rem;
+  width: 100%;
+}
 
 .place-item__actions {
   padding: 1rem;
